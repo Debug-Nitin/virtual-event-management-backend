@@ -1,0 +1,38 @@
+[
+    {
+        "id": "event_456",
+        "title": "Tech Conference 2024",
+        "description": "A conference for tech enthusiasts.",
+        "date": "2024-12-01",
+        "time": "10:00",
+        "organizerId": "user_123",
+        "participants": ["user_456", "user_789"]
+    },
+    {
+        "id": "event_457",
+        "title": "AI Summit 2024",
+        "description": "A summit discussing the latest in AI technology.",
+        "date": "2024-11-15",
+        "time": "09:00",
+        "organizerId": "user_124",
+        "participants": ["user_456", "user_790"]
+    },
+    {
+        "id": "event_458",
+        "title": "Blockchain Expo 2024",
+        "description": "An expo showcasing blockchain innovations.",
+        "date": "2024-10-20",
+        "time": "11:00",
+        "organizerId": "user_125",
+        "participants": ["user_457", "user_791"]
+    },
+    {
+        "id": "event_459",
+        "title": "Cybersecurity Workshop 2024",
+        "description": "A workshop on the latest in cybersecurity.",
+        "date": "2024-09-10",
+        "time": "14:00",
+        "organizerId": "user_126",
+        "participants": ["user_458", "user_792"]
+    }
+]

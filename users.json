@@ -1,0 +1,28 @@
+{
+  "users":[
+    {
+      "id": "user_123",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "hashed_password_here",
+      "role": "attendee",
+      "registeredEvents": ["event_456", "event_789"]
+    },
+    {
+      "id": "user_124",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "another_hashed_password",
+      "role": "speaker",
+      "registeredEvents": ["event_123"]
+    },
+    {
+      "id": "user_125",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "yet_another_hashed_password",
+      "role": "attendee",
+      "registeredEvents": ["event_456"]
+    }
+  ]
+}
